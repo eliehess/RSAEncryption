@@ -1,4 +1,4 @@
-This file is going to have WAYY more than forty characters in it.
+Default input file with filler text:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 Pellentesque ut mi a magna porttitor aliquam a a risus. 
@@ -15,5 +15,7 @@ Nulla non neque lacinia, ultrices libero sed, pharetra urna.
 Nunc rhoncus odio sit amet tellus ullamcorper, non tincidunt odio suscipit.
 Pellentesque efficitur leo sit amet metus imperdiet lacinia ac et libero.
 Ut porta enim tellus, vel efficitur velit placerat non.
+
+1234567890!@#$%^&*()`~[]\{}|;':",./<>?
 
 End of file
