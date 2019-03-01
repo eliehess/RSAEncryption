@@ -39,7 +39,7 @@ public class Encrypt {
 				offset += CHARS_IN_ONE_LINE;
 			}
 
-			if (fileData.length() - offset < 40 && fileData.length() - offset > 0) {
+			if (fileData.length() - offset < CHARS_IN_ONE_LINE && fileData.length() - offset > 0) {
 				oneLine = fileData.substring(offset);
 
 				encryptedMessage = key.encrypt(RSA.stringToBigInt(oneLine));
